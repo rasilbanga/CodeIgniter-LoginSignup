@@ -1,0 +1,10 @@
+function loginSubmit()
+{
+
+}
+
+function registerSubmit()
+{
+	
+}
+
